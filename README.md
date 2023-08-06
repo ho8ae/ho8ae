@@ -1,6 +1,6 @@
 <div align="center"> 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=TAE&nbsp;&nbsp;HO&animation=fadeIn&color=random&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=TAE&nbsp;&nbsp;HO&fontColor=ffffff&animation=fadeIn&color=random&fontSize=100)
 ### ! Welcome my github profile !👋
 
  <br/>
