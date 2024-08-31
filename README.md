@@ -7,7 +7,7 @@ I mainly develop the front-end with React.js and javascript, and I'm also intere
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho8ae&theme=nord_bright)
 
 ### 👨‍💼 Experience
-- short-term training Camosun Colledge (2023.07)
+- Canada Camosun Colledge (2023.07)
 - ilust disigner (2021.07.05 ~)
 - front-end developer (now)
 - 
