@@ -19,7 +19,7 @@ I mainly develop the front-end with React.js and javascript, and I'm also intere
 ### 🏆 Awards 
 
 <details>
-  <summary>이 토글을 열어 확인해보세요 :)</summary>
+  <summary>Click this Toggle!</summary>
 
 
 
