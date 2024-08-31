@@ -10,7 +10,7 @@ I mainly develop the front-end with React.js and javascript, and I'm also intere
 - Canada Camosun Colledge (2023.07)
 - disigner (2021.07.05 ~)
 - front-end developer (now)
-- 
+  
 ### 🏆 Awards 
 
 <details>
