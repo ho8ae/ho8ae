@@ -4,7 +4,7 @@ I mainly develop the front-end with React.js and javascript, and I'm also intere
 
 <img src="imgs/01.png" width="100%" height="390px" />
 
-![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho8ae&theme=nord_bright)
+![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho8ae&theme=default)
 
 ### 👨‍💼 Experience
 - Canada Camosun Colledge (2023.07)
@@ -110,8 +110,8 @@ I mainly develop the front-end with React.js and javascript, and I'm also intere
 </table>
 
 ### 💪 Stats
-![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ho8ae&theme=nord_bright)
-![LOW's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho8ae&theme=nord_bright)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ho8ae&theme=default)
+![LOW's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ho8ae&theme=default)
 
 <!--![Commit time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ho8ae&theme=nord_bright&utcOffset=9)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ho8ae&margin-w=0&theme=gitdimme&row=1&column=5) -->
