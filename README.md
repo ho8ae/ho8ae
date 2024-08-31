@@ -2,7 +2,7 @@
 
 I mainly develop the front-end with React.js and javascript, and I'm also interested in UI/UX and design.
 
-<img src="imgs/01.png" width="100%" />
+<img src="imgs/01.png" width="100%" height="390px" />
 
 ![github-profile](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ho8ae&theme=nord_bright)
 
