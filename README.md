@@ -8,7 +8,7 @@ I mainly develop the front-end with React.js and javascript, and I'm also intere
 
 ### 👨‍💼 Experience
 - Canada Camosun Colledge (2023.07)
-- ilust disigner (2021.07.05 ~)
+- disigner (2021.07.05 ~)
 - front-end developer (now)
 - 
 ### 🏆 Awards 
